@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MusicApp Component matches snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-md bg-dark navbar-dark"
+  >
+    <div
+      class="container"
+    >
+      <a
+        class="navbar-brand"
+        href="#"
+      >
+        <h3
+          class="text-info"
+        >
+          <i
+            class="fa-solid fa-music"
+          />
+          MusicMate
+        </h3>
+      </a>
+      <button
+        class="navbar-toggler"
+        data-bs-target="#navbarContent"
+        data-bs-toggle="collapse"
+      >
+        <span
+          class="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        class="collapse navbar-collapse mt-md-0 mt-3"
+        id="navbarContent"
+      >
+        <form
+          class="d-flex ms-auto"
+        >
+          <input
+            class="form-control me-3"
+            placeholder="Search"
+            type="search"
+            value=""
+          />
+          <button
+            class="btn btn-outline-info"
+          >
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <div
+    style="background-color: rgb(208, 227, 238);"
+  >
+    <div
+      class="container pt-5"
+    >
+      <div
+        class="text-center  mb-4"
+      >
+        <span
+          class="spinner-border"
+        />
+      </div>
+      <div
+        class="row gy-4"
+      />
+    </div>
+  </div>
+</div>
+`;
